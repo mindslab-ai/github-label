@@ -1,0 +1,7 @@
+{
+  "name": "github-label",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "^1.4.2"
+  }
+}

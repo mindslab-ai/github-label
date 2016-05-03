@@ -1,0 +1,50 @@
+{
+  "versionColor": "#ededed",
+  "componentColor": "#bfdadc",
+  "commonLabels": {
+    "(a) bug": "#ea4f4f",
+    "(a) feature": "#edad1d",
+    "(an) enhancement": "#ffce00",
+    "(a) todo": "#f9ecac",
+    "in Progress": "#009800",
+    "in Review": "#0052cc",
+    "req: merge": "#d7eb9f",
+    "req: cleanup": "#d7eb9f",
+    "req: discuss": "#d7eb9f",
+    "req: review": "#d7eb9f",
+    "res: fixed": "#53c9e5",
+    "res: duplicated": "#98dfef",
+    "res: won't fix": "#bae9f5",
+    "P0: critical": "#a81d53",
+    "P1: urgent": "#e0276e",
+    "P2: required": "#fc9dd6",
+    "P3: important": "#f98d82",
+    "P4: nice to have": "#f7aca9",
+    "P!: backlog": "#f4d3d3",
+    "W0: hour": "#f2e9ff",
+    "W1: half day": "#e6ddf3",
+    "W2: day": "#b59ada",
+    "W3: half week": "#8456c1",
+    "W4: week": "#512b8d"
+  },
+  "projects": [
+    {
+      "name": "",
+      "labels": {
+        "(a) performance": "#f9f682",
+        "(a) refactor": "#eb6420"
+      },
+      "versions": [],
+      "components": [
+        "core",
+        "core2"
+      ]
+    },
+    {
+      "name": "noserv-web",
+      "labels": {},
+      "versions": [],
+      "components": []
+    }
+  ]
+}

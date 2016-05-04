@@ -2,6 +2,30 @@
   "name": "github-label",
   "version": "0.0.1",
   "dependencies": {
-    "async": "^1.4.2"
-  }
+    "async": "~1.5.2"
+  },
+  "description": "github labels management tool for several your projects.",
+  "main": "label.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindslab-ai/github-label.git"
+  },
+  "keywords": [
+    "github",
+    "label",
+    "issue",
+    "project"
+  ],
+  "author": {
+    "name": "Gihyun Yun"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mindslab-ai/github-label/issues"
+  },
+  "homepage": "https://github.com/mindslab-ai/github-label#readme"
 }

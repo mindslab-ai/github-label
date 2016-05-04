@@ -8,12 +8,14 @@
     "(a) todo": "#f9ecac",
     "in Progress": "#009800",
     "in Review": "#0052cc",
-    "req: merge": "#d7eb9f",
-    "req: cleanup": "#d7eb9f",
-    "req: discuss": "#d7eb9f",
-    "req: review": "#d7eb9f",
+    "in Testing": "#0080cc",
+    "needs: testing": "#d7eb9f",
+    "needs: planning": "#d7eb9f",
+    "needs: discuss": "#d7eb9f",
     "res: fixed": "#53c9e5",
     "res: duplicated": "#98dfef",
+    "res: blocked": "#f9d0cf",
+    "res: obsoleted": "#98dfef",
     "res: won't fix": "#bae9f5",
     "P0: critical": "#a81d53",
     "P1: urgent": "#e0276e",
@@ -29,7 +31,7 @@
   },
   "projects": [
     {
-      "name": "",
+      "name": "project1",
       "labels": {
         "(a) performance": "#f9f682",
         "(a) refactor": "#eb6420"
@@ -41,7 +43,7 @@
       ]
     },
     {
-      "name": "noserv-web",
+      "name": "project2",
       "labels": {},
       "versions": [],
       "components": []

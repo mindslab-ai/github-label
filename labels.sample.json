@@ -23,11 +23,14 @@
     "P3: important": "#f98d82",
     "P4: nice to have": "#f7aca9",
     "P!: backlog": "#f4d3d3",
-    "W0: hour": "#f2e9ff",
-    "W1: half day": "#e6ddf3",
-    "W2: day": "#b59ada",
-    "W3: half week": "#8456c1",
-    "W4: week": "#512b8d"
+    "W0: 0.5": "#f2e9ff",
+    "W1: 1": "#f2e9ff",
+    "W2: 2": "#e6ddf3",
+    "W3: 3": "#e6ddf3",
+    "W4: 5": "#b59ada",
+    "W5: 8": "#8456c1",
+    "W6: 13": "#512b8d",
+    "W7: 21": "#512b70"
   },
   "projects": [
     {

@@ -7,7 +7,7 @@ This is a simple tool to manage github labels for several your projects.
 Install  first.
 
 ```
-git checkout git@github.com:mindslab-ai/github-label
+git clone git@github.com:mindslab-ai/github-label
 npm install
 ```
 
